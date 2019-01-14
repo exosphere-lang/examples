@@ -1,4 +1,4 @@
 # Exosphere Examples
-Example Exosphere programs
+Example Exosphere source code
 
-These example programs can be compiled by `exosphere` and valid CloudFormation templates produced.
+The example source code within this repository can be compiled by `exosphere` and valid CloudFormation templates produced.
